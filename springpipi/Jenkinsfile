@@ -1,4 +1,4 @@
-node('Maven'){
+node('MAVEN'){
  
   stage('SCM'){
     // cloning code
